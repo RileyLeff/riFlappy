@@ -1,5 +1,6 @@
-Clumsy Bird
+Flappy Abhimanyu
 ===========
+Riley's fork of someone else's thing.
 
 A MelonJS made "Flappy Bird" clone.
 
